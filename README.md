@@ -1,16 +1,8 @@
-# couter_app_setstate
+# Couter App (SetState / Provider)
 
-A new Flutter project.
+A  Flutter project to demostrate the property of provider as state management library.
 
-## Getting Started
+## App Screens
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/Sanjay0907/Counter-App/assets/90062803/4c42d34a-a962-4adb-9103-cdf5c12b2636" alt="The Minion Selfie" width="300" height="700">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
